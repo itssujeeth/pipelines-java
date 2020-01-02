@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sujithkorappathsurendran0335/devops-project-samples/_apis/build/status/itssujeeth.pipelines-java?branchName=master)](https://dev.azure.com/sujithkorappathsurendran0335/devops-project-samples/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
